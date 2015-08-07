@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+body{
+  background-image:url("http://d1euk9k8t2kc51.cloudfront.net/wp-content/uploads/2014/01/vectortoons-01-18-1556.jpg");
+  background-size: 115%;
+}
+.starttext{
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+
+.col-md-4{
+  border:10px #d3d3d3 solid;
+  background:rgba(180,180,180,0.9);
+  
+}
