@@ -1,0 +1,61 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+/*font-family: 'Raleway', sans-serif;*/
+
+body{
+  background-image: url("http://d1euk9k8t2kc51.cloudfront.net/wp-content/uploads/2014/01/vectortoons-01-18-1556.jpg");
+  background-size: 115%;
+  text-align: middle;
+}
+
+.starttext{
+  font-family: 'Raleway', sans-serif;
+  color: white;
+
+}
+
+.col-md-4{
+  border: 10px white solid;
+  background-color: rgba(255,255,255,0.5)
+}
+
+a {
+    text-decoration: none;
+    transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -moz-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+}
+ 
+#button {
+    float: left;
+    width: 170px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 15px;
+    background: #fff;
+    border: 1px solid #d8d8d8;
+}
+
+#button a{
+    font-family: 'Open Sans',sans-serif;
+    background-color: #fff;
+    text-align: center;
+    color: #5c5c5c;
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    border:1px solid #d8d8d8;
+}
+
+#button a:hover{
+    color: #5c5c5c;
+    background-color: #eee;
+    border:1px solid #000;
+    /*padding-left: 10px;*/
+}
+
+
